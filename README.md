@@ -1,4 +1,6 @@
-# Denoise and Super Resolution Image
+# Denoise and Super Resolution Image (x4)
+
+![alt text](Image/image_a.png)
 
 Link paper: https://arxiv.org/abs/1611.07004
 
